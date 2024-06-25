@@ -1,2 +1,4 @@
 # oportunidad-creacion
-pimer repo creado en git
+pimer repo creado en git.
+## Descripcion
+Esto es solo pata aprender por el momento.
